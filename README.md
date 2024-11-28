@@ -11,7 +11,7 @@
 
 
 
-```
+
 # Split and Merge MP3
 
 ## فهرست مطالب
@@ -32,9 +32,6 @@
 
 `splitandmergemp3.py` یک اسکریپت پایتون است که برای تقسیم و ادغام فایل‌های MP3 با استفاده از FFMPEG طراحی شده است. این اسکریپت می‌تواند یک فایل MP3 را به قطعات کوچکتر تقسیم کند یا فایل‌های MP3 موجود در یک پوشه را به یک فایل واحد ترکیب کند.
 
-... (ادامه مستندات به این شکل)
-
-```
 
 
 ### **برنامه Python برای تقسیم و ادغام فایل‌های MP3**
@@ -66,7 +63,7 @@
 
 1. **کلون کردن مخزن:**
    ```bash
-   git clone https://github.com/YourUsername/SplitAndMergeMP3.git
+   git clone https://github.com/mohammad021/SplitAndMergeMP3.git
    cd SplitAndMergeMP3
    ```
 
@@ -153,7 +150,6 @@ FolderName/
 ---
 
 
-```
 # Split and Merge MP3
 
 ## Table of Contents
@@ -175,7 +171,6 @@ FolderName/
 `splitandmergemp3.py` is a Python script designed to split and merge MP3 files using FFMPEG. This script can either split a single MP3 file into smaller segments or merge multiple MP3 files within a folder into one consolidated file.
 
 
-```
 
 ### **Split and Merge MP3: A Python Script for Audio File Manipulation**
 
@@ -206,7 +201,7 @@ FolderName/
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/YourUsername/SplitAndMergeMP3.git
+   git clone https://github.com/mohammad021/SplitAndMergeMP3.git
    cd SplitAndMergeMP3
    ```
 
